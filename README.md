@@ -1,5 +1,7 @@
 # Bank-Recuuring-System-project
-used libraries:
+Calculates the RD amount from starting date to end
+
+libraries:
 import java.io.Serializable;
 import java.time.LocalDate;
 import java.io.BufferedReader;
